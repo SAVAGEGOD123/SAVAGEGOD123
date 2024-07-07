@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samavarta Satapathy
+- 👋 Hi, I’m Samavarta 
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
