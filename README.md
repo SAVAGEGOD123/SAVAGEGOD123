@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Samavarta 
+- 👋 Hi, I’m @SAVAGEGOD123 
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
+- 💞️ I’m not really looking to collaborate
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: You can't smile while holding your breath.
